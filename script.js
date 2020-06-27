@@ -1,4 +1,3 @@
-
 const etchContainer = document.querySelector('#etchContainer');
 const btnContainer = document.querySelector('#btnContainer');
 const grid = document.createElement('div');
@@ -55,7 +54,7 @@ function createGrid(){
         }
         } else if(mode === 'standard'){
             item.style.opacity = 1;
-        } else if(mode === 'eraser'){ //check to see if this works after you enable the buttons
+        } else if(mode === 'eraser'){
             if (item.style.opacity > 0){
                 item.style.opacity = 0;
             }
@@ -64,15 +63,24 @@ function createGrid(){
     }); 
 
     standard.addEventListener('click', function() {
-        mode = 'standard'
+        mode = 'standard';
+        standard.classList.add("selected");
+        gradient.classList.remove("selected");
+        eraser.classList.remove("selected");
     });
 
     gradient.addEventListener('click', function() {
-        mode = 'gradient'
+        mode = 'gradient';
+        gradient.classList.add("selected");
+        standard.classList.remove("selected");
+        eraser.classList.remove("selected");
     });
 
     eraser.addEventListener('click', function() {
-        mode = 'eraser'
+        mode = 'eraser';
+        eraser.classList.add("selected");
+        gradient.classList.remove("selected");
+        standard.classList.remove("selected");
     });
 
     addClear();
