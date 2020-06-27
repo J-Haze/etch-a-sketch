@@ -1,6 +1,11 @@
+h1{
+    margin: 10px, auto, 0px, auto;
+    text-align: center;
+}
+
 #etchContainer{
     display: flex;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 #grid{
