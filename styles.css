@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch&display=swap');
+h1{
+    margin: 20px auto 5px auto;
+    text-align: center;
+    font-family: 'Cabin Sketch', cursive;
+    font-weight: 100;
+}
+
+#etchContainer{
+    display: flex;
+}
+
+#grid{
+    margin: auto;
+    margin-top: 0px;
+    height: 500px;
+    width: 500px;
+    min-width:500px;
+    border: 10px solid black;
+    padding: 0px;
+}
+
+.column{
+    width: 100%;
+    height: 100%;
+    display: grid;
+}
+
+.square{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    background-color: black;
+}
+
+#btnContainer{
+    display: flex;
+    justify-content: center;
+    width: 520px;
+    min-width: 520px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#mode{
+    margin-right: auto;
+}
+
+button{
+    margin: 2px;
+    width: 70px;
+    border: 1px solid black;
+    border-radius: 0%;
+    font-family: inherit;
+    font-size: 15px;
+}
+
+.selected{
+    background-color: black;
+    color: white;
+    border-radius: 0%;
+}
