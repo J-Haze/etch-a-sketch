@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch&display=swap');
 h1{
     margin: 10px, auto, 0px, auto;
     text-align: center;
+    font-family: 'Cabin Sketch', cursive;
+    font-weight: 100;
 }
 
 #etchContainer{
