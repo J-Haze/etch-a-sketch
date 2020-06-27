@@ -52,7 +52,10 @@ function runResize(){
                 alert("Please enter a number");
             }
             else if (gridSize < 0){
-                alert("Please Enter a positive integer");
+                alert("Please enter a positive integer");
+            }
+            else if (gridSize > 150){
+                alert("Cannot run with numbers greater than 150");
             }
             else{
                 gridSize = Math.floor(gridSize);
