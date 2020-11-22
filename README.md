@@ -1,2 +1,4 @@
 # etch-a-sketch
-Etch-A-Sketch JavaScript Project
+Etch-A-Sketch App
+
+Demo: https://j-haze.github.io/etch-a-sketch/
