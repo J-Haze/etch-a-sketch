@@ -6,13 +6,15 @@
 ### Purpose: ###
 The purpose of this project was to create a fun interactive app while allowing me to expand upon my Web Development skills.
 
+### Demonstrated Knowledge Of: ###
 
-* Deepened knowledge of **DOM** and its **manipulation**.
-* Improved **CSS Grid** understanding and usage.
-* Greatly improved **functionality** in general (shortened, optimized and reusable functions).
-* Instead of prompt, I added three grid size options for **better UX** and **UI**.
+HTML, CSS, JavaScript, DOM Manipulation
 
-### Purpose of this project: ###
+### Notable Features: ###
+
+* Change board size (and resolution).
+* Change drawing mode between solid and gradient.
+* Erase specific squares or clear the whole board.
 
 ### My web toy in action: ###
 
