@@ -6,9 +6,11 @@
 ### Purpose: ###
 The purpose of this project was to create a fun interactive app while allowing me to expand upon my Web Development skills.
 
-### Demonstrated Knowledge Of: ###
+### Built With: ###
 
-HTML, CSS, JavaScript, DOM Manipulation
+* JavaScript
+* HTML
+* CSS
 
 ### Notable Features: ###
 
