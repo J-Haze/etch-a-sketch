@@ -18,4 +18,4 @@ HTML, CSS, JavaScript, DOM Manipulation
 
 ### My web toy in action: ###
 
-![Toy in action](./images/ReadMe1.jpg)
+![Image of App](./images/ReadMe1.png)
