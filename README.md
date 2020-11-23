@@ -16,6 +16,6 @@ HTML, CSS, JavaScript, DOM Manipulation
 * Change drawing mode between solid and gradient.
 * Erase specific squares or clear the whole board.
 
-### My web toy in action: ###
+### Picture: ###
 
 ![Image of App](./images/ReadMe1.png)
