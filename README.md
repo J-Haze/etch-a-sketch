@@ -12,7 +12,7 @@ HTML, CSS, JavaScript, DOM Manipulation
 
 ### Notable Features: ###
 
-* Change board size (and resolution).
+* Change board resolution.
 * Change drawing mode between solid and gradient.
 * Erase specific squares or clear the whole board.
 
