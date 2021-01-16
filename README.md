@@ -1,10 +1,7 @@
 ## Etch-a-Sketch
-  This is a browser version of the popular toy: The Etch A Sketch
+This is a browser version of the popular toy: The Etch A Sketch
 
 🔗 **Live preview** of the app is [here](https://j-haze.github.io/etch-a-sketch/).
-
-### Purpose: ###
-The purpose of this project was to create a fun interactive app while allowing me to expand upon my Web Development skills.
 
 ### Built With: ###
 
